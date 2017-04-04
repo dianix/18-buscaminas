@@ -4,21 +4,29 @@
 }
 
 body {
-    background-color: #4a4a4a;
+    background-color: #e7fdfb;
+    font-family: sans-serif;
+    color: white;
 }
 
 header {
-    
+    padding: 20px;
+    text-align: center;
+    height: 40px;
+    background-color: #78d6cf;
 }
 
 table {
-    
+    margin-top: 20px;
+    margin-left: 33%;
 } 
 
 td {
+    
+}
+
+img {
     height: 50px;
     width: 50px;
-    background-color: white;
-    text-align: center;
 }
 
